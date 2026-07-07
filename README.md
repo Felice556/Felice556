@@ -22,7 +22,7 @@ Sviluppatore frontend in formazione, con un background in informatica e una pass
 
 Durante il percorso formativo ho sviluppato, in team, diversi cloni di siti reali per esercitarmi su struttura, componenti e responsive design:
 
-- **Lego** — clone del sito ufficiale
+- 🧱 **[Lego Clone](https://github.com/Felice556/Lego-clone)** — Clone del sito ufficiale sviluppato con HTML, CSS e JavaScript.
 - **SpaceX** — clone del sito ufficiale
 - **Starlink** — clone del sito ufficiale
 
