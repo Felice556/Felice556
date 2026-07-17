@@ -1,16 +1,13 @@
-# Ciao, sono Felice 👋
-
-Sviluppatore frontend in formazione, con un background in informatica e una passione concreta per il web coding.
-
-- 🎓 Formato presso **Develhope**, scuola tech italiana, con focus su sviluppo frontend
-- 💻 Mi specializzo in **React** e **TypeScript**
-- 🚀 Imparo soprattutto costruendo progetti reali in team, versionati e collaborati tramite Git/GitHub
-- 🌱 Attualmente al lavoro su nuovi progetti per consolidare le competenze
+# Hi, I'm Felice 👋
+Frontend developer in training, with a background in computer science and a genuine passion for web coding.
+- 🎓 Trained at **Develhope**, an Italian tech school, with a focus on frontend development
+- 💻 Specializing in **React** and **TypeScript**
+- 🚀 I learn mainly by building real projects in a team, version-controlled and collaborated on via Git/GitHub
+- 🌱 Currently working on new projects to strengthen my skills
 
 ---
 
-## 🛠️ Stack & Strumenti
-
+## 🛠️ Stack & Tools
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -18,21 +15,17 @@ Sviluppatore frontend in formazione, con un background in informatica e una pass
 
 ---
 
-## 📌 Progetti in evidenza
+## 📌 Featured Projects
+During my training, I worked in a team to build several clones of real websites, practicing structure, components, and responsive design:
+- 🧱 **[Lego Clone](https://github.com/Felice556/Lego-clone)** — Clone of the official website built with HTML, CSS, and JavaScript.
+- **SpaceX** — clone of the official website
+- **Starlink** — clone of the official website
 
-Durante il percorso formativo ho sviluppato, in team, diversi cloni di siti reali per esercitarmi su struttura, componenti e responsive design:
-
-- 🧱 **[Lego Clone](https://github.com/Felice556/Lego-clone)** — Clone del sito ufficiale sviluppato con HTML, CSS e JavaScript.
-- **SpaceX** — clone del sito ufficiale
-- **Starlink** — clone del sito ufficiale
-
-Ogni progetto è stato architettato e versionato tramite GitHub, lavorando in team su branch e pull request.
+Each project was structured and version-controlled through GitHub, working in a team with branches and pull requests.
 
 ---
 
-## 📫 Contatti
-
+## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felice-russo-web1/)
-
 
 
