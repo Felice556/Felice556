@@ -1,5 +1,5 @@
 # Hi, I'm Felice 👋
-Frontend developer in training, with a background in computer science and a genuine passion for web coding.
+Junior Front-end developer, with a background in computer science and a genuine passion for web coding.
 - 🎓 Trained at **Develhope**, an Italian tech school, with a focus on frontend development
 - 💻 Specializing in **React** and **TypeScript**
 - 🚀 I learn mainly by building real projects in a team, version-controlled and collaborated on via Git/GitHub
