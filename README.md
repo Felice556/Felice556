@@ -17,8 +17,8 @@ Frontend developer in training, with a background in computer science and a genu
 
 ## 📌 Featured Projects
 During my training, I worked in a team to build several clones of real websites, practicing structure, components, and responsive design:
-- 🧱 **[Lego Clone](https://github.com/Felice556/Lego-clone)** **[Demo](https://felice556.github.io/Lego-clone/)**  — Clone of the official website built with HTML, CSS, and JavaScript.
-- **[SpaceX/Starlink](https://github.com/Felice556/Spacex-Starlink-clone)** **[Demo](https://felice556.github.io/Spacex-Starlink-clone/)** — clone of the official website
+- 🧱 **[Lego Clone](https://github.com/Felice556/Lego-clone)** | **[Demo](https://felice556.github.io/Lego-clone/)**  — Clone of the official website built with HTML, CSS, and JavaScript.
+- **[SpaceX/Starlink](https://github.com/Felice556/Spacex-Starlink-clone)** | **[Demo](https://felice556.github.io/Spacex-Starlink-clone/)** — clone of the official website
 
 
 Each project was structured and version-controlled through GitHub, working in a team with branches and pull requests.
