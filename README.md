@@ -20,8 +20,9 @@ During my training, I worked in a team to build several clones of real websites,
 - 🧱 **[Lego Clone](https://github.com/Felice556/Lego-clone)** | **[Demo](https://felice556.github.io/Lego-clone/)**  — Clone of the official website built with HTML, CSS, and JavaScript.
 - **[SpaceX/Starlink](https://github.com/Felice556/Spacex-Starlink-clone)** | **[Demo](https://felice556.github.io/Spacex-Starlink-clone/)** — Clone of the official website
   
- ## 📌 Personal Project
--  **[Stanza 237](https://github.com/Felice556/horror-project)** | **[Demo](https://horror-project-three.vercel.app/)** — An interactive horror website 
+ ## 📌 Personal Projects
+-  **[Stanza 237](https://github.com/Felice556/horror-project)** | **[Demo](https://horror-project-three.vercel.app/)** — An interactive horror website
+-   **[Task Manager](https://github.com/Felice556/task-manager-frontend)** | **[Demo](https://task-manager-frontend-eta-two.vercel.app/)** - A simple task manager to practice on backend
 
 
 
