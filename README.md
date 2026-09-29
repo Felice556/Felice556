@@ -1,7 +1,7 @@
 # Hi, I'm Felice 👋
 
 Junior **Front-end developer** growing into **full-stack**, with a background in computer science and a genuine passion for building for the web.
-I'm also a **personal trainer** — and I build the tools I actually need in my work.
+I'm also a **personal trainer**  and I build the tools I actually need in my work.
 
 - 🎓 Trained at **Develhope**, an Italian tech school, with a focus on frontend development
 - 💻 Specializing in **React** and **TypeScript**, now also working with **Node.js**, **Express** and **PostgreSQL**
