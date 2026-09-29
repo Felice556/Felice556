@@ -31,7 +31,7 @@ I created it for my own coaching work: I prepare training plans, my clients log 
 - **Backend**: Node.js, Express 5, TypeScript, Prisma 7, PostgreSQL (Supabase) — deployed on Render
 - **Security**: JWT sessions that can be revoked (password change logs out every device), bcrypt, rate limiting on login and sign-up, Helmet and Content-Security-Policy headers, strict input validation with Zod, per-client data isolation
 - **Privacy**: GDPR notice and explicit consent for health data, EU-hosted database
-- **Testing**: end-to-end API tests and browser tests (Playwright) on mobile screen sizes, in both themes
+- **Testing**: 100+ automated tests (Vitest, Supertest) on a real PostgreSQL database, run on every push with GitHub Actions
 
 ---
 
